@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  -"articles": [
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rita Liao",
+  "title": "Bill Gates meets with President Xi Jinping in Beijing",
+  "description": "Hot on the heels of Elon Musk’s visit to China earlier this month, the country welcomes another American tech billionaire. Bill Gates is meeting President Xi Jinping on Friday in Beijing, China’s state media reported. The goal of the meeting hasn’t been annou…",
+  "url": "https://techcrunch.com/2023/06/15/bill-gates-meets-with-president-xi-jinping-in-beijing/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/bill-gates.jpg?resize=1200,800",
+  "publishedAt": "2023-06-16T06:02:59Z",
+  "content": "Hot on the heels of Elon Musk’s visit to China earlier this month, the country welcomes another American tech billionaire.\r\nBill Gates is meeting President Xi Jinping on Friday in Beijing, China’s st… [+1145 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Kate Park",
+  "title": "Socar's ride-hailing platform Tada adds to growing list of tech layoffs",
+  "description": "Seoul-based ride-hailing platform Tada plans to let go of a portion of its employees as part of a restructuring as it works to reduce costs.",
+  "url": "https://techcrunch.com/2023/06/15/socars-ride-hailing-platform-tada-adds-to-growing-list-of-tech-layoffs/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/TADA_314_RE_02.jpg?resize=1200,799",
+  "publishedAt": "2023-06-16T04:47:41Z",
+  "content": "Seoul-based ride-hailing platform Tada, operated by Korean ride-sharing company Socar’s subsidiary VCNC, plans to let go of a portion of the company’s employees as part of a restructuring as it works… [+1453 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "Lyft co-founder Logan Green retains board seat despite shareholder opposition",
+  "description": "Lyft shareholders say Green \"bears particular responsibility for failing to properly address mounting concern over rideshare driver safety.\"",
+  "url": "https://techcrunch.com/2023/06/15/lyft-co-founder-logan-green-retains-board-seat-despite-shareholder-opposition/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/05/logan-green4.jpg?resize=1200,800",
+  "publishedAt": "2023-06-15T21:48:01Z",
+  "content": "Logan Green, the co-founder and former CEO of ride-hailing platform Lyft, will remain on the company’s board despite opposition from some shareholders, according to preliminary results from the compa… [+4024 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Devin Coldewey",
+  "title": "Virgin Galactic starts commercial spaceflights in two weeks",
+  "description": "Space tourism line Virgin Galactic is finally beginning commercial spaceflight services at the end of the month, the company announced today.",
+  "url": "https://techcrunch.com/2023/06/15/virgin-galactic-starts-commercial-spaceflights-in-two-weeks/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/Unity-25_Spaceship-Selects3.jpg?resize=1200,750",
+  "publishedAt": "2023-06-15T20:54:30Z",
+  "content": "After years of tests, space tourism line Virgin Galactic is finally beginning commercial spaceflight services at the end of the month, the company announced today. After these initial flights, they w… [+1554 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Amanda Silberling",
+  "title": "Post, a publisher-focused Twitter alternative, launches on iOS",
+  "description": "Launched in beta just days after Elon Musk finalized his purchase of Twitter, Post wants to reinvent how people get news on social media",
+  "url": "https://techcrunch.com/2023/06/15/post-a-publisher-focused-twitter-alternative-launches-on-ios/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/post-news-app-icon-ios.jpg?resize=1200,675",
+  "publishedAt": "2023-06-15T20:49:59Z",
+  "content": "One of many buzzy apps competing to be “the next Twitter,” Post launched its iOS app on Thursday.\r\nLaunched in beta just days after Elon Musk finalized his purchase of Twitter, Post wants to reinvent… [+1787 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Amanda Silberling",
+  "title": "Twitter competitor Spill launches in beta on iOS",
+  "description": "From a team of ex-Twitter employees, the new social platform Spill aims to center underserved culture drivers.",
+  "url": "https://techcrunch.com/2023/06/15/twitter-competitor-spill-launches-in-beta-on-ios/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Spill_02_04.jpg?resize=1200,675",
+  "publishedAt": "2023-06-15T20:36:50Z",
+  "content": "From a team of ex-Twitter employees, the new social platform Spill launched in an invite-only beta on the App Store.\r\nIts been quite the year for Spill CEO Alphonzo Phonz Terrell. This time last year… [+3918 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Kyle Wiggers",
+  "title": "The week in AI: Apple makes machine learning moves",
+  "description": "In the past week, Apple made major moves in AI during WWDC -- even if it wasn't particularly loud about them.",
+  "url": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/Apple-Vision-Pro-WWDC-21-1.jpeg?resize=1200,675",
+  "publishedAt": "2023-06-15T20:33:13Z",
+  "content": "Keeping up with an industry as fast-moving as AI is a tall order. So until an AI can do it for you, heres a handy roundup of the last weeks stories in the world of machine learning, along with notabl… [+7976 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Jagmeet Singh",
+  "title": "LockBit claims ransomware attack on pharma giant Granules India",
+  "description": "The Russia-linked ransomware gang claimed responsibility for the cyberattack targeting the Indian pharmaceutical giant.",
+  "url": "https://techcrunch.com/2023/06/15/lockbit-ransomware-granules-india/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-885254000.jpg?resize=1200,800",
+  "publishedAt": "2023-06-15T20:08:37Z",
+  "content": "The Russia-linked ransomware group LockBit has claimed responsibility for a cyberattack on Indian pharmaceutical giant Granules India, and published portions of the data it allegedly stole.\r\nLockBit’… [+2352 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Szkutak",
+  "title": "How two founders approach building ethical AI startups in health care",
+  "description": "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice.",
+  "url": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768",
+  "publishedAt": "2023-06-15T18:26:53Z",
+  "content": "The speed at which AI companies are evolving is making a lot of people nervous. Thats because moving fast could lead to potential ethical issues that arent able to be addressed.\r\nBuilding ethical alg… [+858 chars]"
+  },
+  -{
+  -"source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Carly Page",
+  "title": "Ransomware gang lists first victims of MOVEit mass-hacks, including US banks and universities",
+  "description": "The hackers responsible for exploiting a flaw to target users of a popular file transfer tool has begun listing victims of the mass-attacks",
+  "url": "https://techcrunch.com/2023/06/15/moveit-clop-mass-hacks-banks-universities/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/ransomware-moshed.jpg?resize=1200,675",
+  "publishedAt": "2023-06-15T09:45:16Z",
+  "content": "Clop, the ransomware gang responsible for exploiting a critical security vulnerability in a popular corporate file transfer tool, has begun listing victims of the mass-hacks, including a number of U.… [+4992 chars]"
+  }
+  ]
+  }
